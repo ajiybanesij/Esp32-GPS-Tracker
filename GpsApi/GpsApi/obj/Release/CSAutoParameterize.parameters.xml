@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DB-Web.config Connection String" description="DB Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Content.Context.csdl|res://*/Content.Context.ssdl|res://*/Content.Context.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=giriftest.database.windows.net;initial catalog=girift;persist security info=True;user id=girifteam;password=!123elazig;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ajiyba\\source\\repos\\GpsApi\\GpsApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DB']/@connectionString" />
+  </parameter>
+</parameters>

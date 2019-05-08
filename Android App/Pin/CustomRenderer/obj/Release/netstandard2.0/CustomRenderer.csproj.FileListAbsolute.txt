@@ -1,0 +1,13 @@
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.deps.json
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.dll
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\bin\Release\netstandard2.0\CustomRenderer.pdb
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csprojAssemblyReference.cache
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\RoutePage.xaml.g.cs
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.csproj.CoreCompileInputs.cache
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfoInputs.cache
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.AssemblyInfo.cs
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.dll
+C:\Users\Ajiyba\Desktop\Pin\CustomRenderer\obj\Release\netstandard2.0\CustomRenderer.pdb

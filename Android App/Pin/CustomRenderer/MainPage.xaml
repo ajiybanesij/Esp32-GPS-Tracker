@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CustomRenderer.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <DatePicker x:Name="pulseDatepickerPulse" MinimumDate="3/8/1990" MaximumDate="5/12/2090"
+                                DateSelected="PulseDatepickerPulse_DateSelected"/>
+            <Button x:Name="Rota" Text="Geçmiş Konumlar" Clicked="Rota_Clicked"></Button>
+            <Button x:Name="SonKonum" Text="Son Konum" Clicked="SonKonum_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
